@@ -1,0 +1,2 @@
+# Visualization-of-Kepler-Exoplanet-Search-Results
+ All of the planets in our solar system orbit around the sun. Planets that orbit around other stars are called exoplanets. Kepler is dedicated to search for exoplanets in star systems besides our own, with the ultimate goal of possibly finding other habitable planets besides our own.Here,I tried to visualize the Kepler exoplanet search result data. 
